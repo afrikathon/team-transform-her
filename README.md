@@ -26,7 +26,7 @@ https://github.com/sympto270 Lloyd Kioko, Software engineer, Kenya
 
 https://github.com/HarryKayNeezy Harry Kwabena, Civil Engineer, Web and Game Developer, Ghana
 
-Olalekan Adeeko, Entrepreneur, Research Analyst, Nigeria
+https://github.com/Adekunmi28 Olalekan Adeeko, Entrepreneur, Research Analyst, Nigeria
 
 
 ## LICENSE
