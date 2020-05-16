@@ -1,4 +1,4 @@
-## YOUR PROJECT NAME
+## TRANSFORM HER
 
 Transform Her is a project that came to be as a project for the Afrihakathon
 
